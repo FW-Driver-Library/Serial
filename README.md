@@ -64,5 +64,5 @@ void SysTick_Handler(void)
 此外，如果包含了userconfig.h这个配置文件的话则不需要自己声明使用的串口，在userconfig.h文件里勾选对应的串口即可。
 
 
-![image-20250611145203335](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250611145203335.png)
+![image-20250611145203335](https://github.com/user-attachments/assets/a91626b1-811b-4deb-a3b9-46fd6232c785)
 
